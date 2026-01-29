@@ -1,0 +1,139 @@
+# APM Sprint Planning Under Competing Priorities
+
+This project is a case study demonstrating how an Associate Product Manager (APM) plans a one-month sprint while managing multiple client priorities with limited engineering resources.
+
+## Problem Statement
+The product team consists of 10 developers working across multiple hospital products. Due to internal constraints such as exams and partial leaves, full team capacity is not available.
+
+The goal is to design a realistic sprint plan that:
+- Prioritizes work across clients
+- Allocates resources effectively
+- Clearly defines trade-offs
+- Maintains transparent communication
+
+## Clients Involved
+- Hospital A (Existing client – urgent OPD changes)
+- Hospital B (New high-revenue client – HR module)
+- Hospital C (Near closure – inventory features)
+
+## Key Deliverables
+- Sprint roadmap
+- Visual sprint plan
+- Decision justification
+- Communication strategy
+
+This project reflects real-world product management decision-making.
+
+
+
+
+## Problem Overview
+
+The objective is to manage competing priorities from three hospital clients within a one-month sprint.
+
+Constraints include:
+- Limited developer availability
+- High urgency for an existing client
+- Revenue impact from a new client
+- Deal-closure dependency for another client
+
+The challenge is to balance urgency, business impact, and team capacity.
+
+
+
+
+
+
+## Prioritization Logic
+
+| Hospital | Priority | Reason |
+|--------|----------|--------|
+| Hospital A | High | Existing client with urgent operational need |
+| Hospital B | Medium | New client with high revenue potential |
+| Hospital C | Low | Important but less time-sensitive |
+
+### Decision Framework
+- Customer trust and urgency first
+- Revenue impact second
+- Future opportunity third
+
+
+
+
+
+
+## Sprint Roadmap
+
+### Team Capacity
+- Total developers: 10
+- Partial leave: 2
+- Exam constraints: Reduced availability
+- Effective capacity planned: 7 developers
+
+### Week-wise Plan
+
+| Week | Hospital | Task | Developers |
+|-----|---------|------|-----------|
+| Week 1 | Hospital A | OPD layout changes | 3 |
+| Week 2 | Hospital A | Testing & deployment | 2 |
+| Week 1–2 | Hospital B | HR module setup | 2 |
+| Week 3–4 | Hospital B | Core HR features | 3 |
+| Week 3–4 | Hospital C | Basic inventory features | 2 |
+
+
+
+
+
+
+
+
+
+
+
+
+## Trade-offs and Assumptions
+
+- Advanced inventory features for Hospital C are deferred
+- Payroll and advanced HR features for Hospital B are postponed
+- No internal feature development this sprint
+
+These trade-offs help avoid over-commitment and ensure quality delivery.
+
+
+
+
+
+
+
+
+## Communication Strategy
+
+### Internal Team
+- Daily stand-ups (15 minutes)
+- Weekly sprint reviews
+- Clear ownership of tasks
+
+### Clients
+- Hospital A: Frequent updates due to urgency
+- Hospital B: Weekly demos
+- Hospital C: Timeline clarity and expectation management
+
+
+
+
+
+
+
+
+## Conclusion
+
+This sprint plan demonstrates realistic product management by balancing urgency, revenue impact, and team capacity.
+
+By clearly prioritizing work, defining trade-offs, and maintaining transparent communication, the sprint ensures maximum business impact within constraints.
+
+
+
+
+
+
+
